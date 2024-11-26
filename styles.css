@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#logodiv{
+    margin-left: 20px;
+    margin-right: 20px;
+    min-height: 40px;
+    line-height: 40px;
+    font-family: 'Arial Narrow Bold';
+}
+img{
+    border-radius: 15px;
+    float: left;
+    margin-right: 3px;
+    margin-top: 5px;
+}
+h3{
+    float: left;
+}
