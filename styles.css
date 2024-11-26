@@ -67,3 +67,31 @@ h3{
     margin-right: 20px;
 
 }
+.main-section{
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 15px;
+    padding: 20px;
+}
+.card{
+    height: 400px;
+    width: 250px;
+    margin: 10px;
+    background-color: white;
+    border-radius: 20px;
+    display: block;
+    padding: 5px;
+    margin-bottom: 3px;
+}
+.img{
+    display: flex;
+    justify-content: center;
+}
+.sec2{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
